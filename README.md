@@ -7,7 +7,7 @@ I spent hours hashing out the details of the fluid path, sensors, and features o
 
 After all the brainstorming and design work was done, I modeled the manifold in Solidworks. The manifold's design consists of two plates: a bottom plate that contains the fluid paths and o-ring grooves, and a top-plate that contains mounting positions for sensors and break-outs from the manifold. The manifold features an innovative concept in the form of "adapter blocks". These adapters sit on top of the top plate, and can interface with different sensors, transducers, thread types, and tubing. A picture of an adapter block mounted with a solenoid valve on top of a prototype of the top plate can be seen below:
 
-<p align="center"><img src="https://user-images.githubusercontent.com/94981561/207216437-d1003a52-3322-4e3b-86da-65eedf931768.PNG](https://user-images.githubusercontent.com/94981561/207217194-b2bc80a9-5e71-4dcd-8c60-f9ff565c5680.png)" width = "567 height = "756"></p>
+<p align="center"><img src="(https://user-images.githubusercontent.com/94981561/207217194-b2bc80a9-5e71-4dcd-8c60-f9ff565c5680.png)" width = "567 height = "756"></p>
 
 These adapters are extremely flexible, and have the ability to be machined to interface with any type of fluidic connection.
   

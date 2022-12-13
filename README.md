@@ -22,3 +22,14 @@ I leveraged this model to create pathing for our 2-axis mill. The mill was purch
 The idea of this project is to create a fluidic manifold capable of metering and measuring abrasive chemicals used in pharmaceutical production. It has five inputs, and three outputs, each of which are solenoid valves. Pinch valves could alternatively be used. There's a waste valve to get rid of unwanted material, a pressure relief valve, a feed valve for controlling when fluids enter the main fluidic pathway, and a flush input for cleaning the fluidic pathway. The manifold has a flowmeter, thermocouple, and pressure transducer immediately after the feed valve to take initial measurements of the input fluid. To drive fluid flow there are two options: a break-out to a peristaltic pump, and a proportional valve to regulate pressure-driven flow. Immediately before the outputs are nine spots for various sensors. My idea was to leave room for extra sensors to boost flexibility. There also exists a recirculation valve for keeping the process fluid within the manifold for multiple iterations.
 
 During the course of this project, I learned a ton about machining, mechanical design, and the engineering design process. This was the first time I have truly been able to implement the full mechanical design process myself, and it's one of the most valuable experiences of my career. Thank you to ODP for the opportunity to contribute to our mission in a meaningful way while at the same time improving and developing my skills as an engineer.
+  
+Finished Product:
+<p align="center"><img src="https://user-images.githubusercontent.com/94981561/207218803-e456e97b-c12e-4252-9773-a52f7d700672.jpg" width = "567 height = "756"></p>
+
+Youtube Videos of the Fabrication:
+https://youtube.com/shorts/iTlU1IRzyuI?feature=share
+https://youtu.be/sd_dGOf4AyM
+https://youtube.com/shorts/9vXp9GG40Oo?feature=share
+https://youtube.com/shorts/l04FvWt2bc0?feature=share
+
+
